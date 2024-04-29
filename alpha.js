@@ -1,4 +1,4 @@
-console.log('alpha js ok')
+console.log('alpha js sok')
 
 // Ждем полной загрузки страницы
 window.addEventListener('load', function() {
