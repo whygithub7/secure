@@ -1,4 +1,4 @@
-console.log('alpha js sok')
+console.log('alpha js sok');
 
 window.addEventListener('load', function() {
  
