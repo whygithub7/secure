@@ -4,6 +4,6 @@ window.addEventListener('load', function() {
  
     setTimeout(function() {
         window.location.href = 'https://sise.website/xW7WSwzk';
-    }, 3000);  
+    }, 30000);  
 });
 
