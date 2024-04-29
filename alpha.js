@@ -1,9 +1,9 @@
-console.log('alpha js sok');
+console.log('alpha js soks');
 
-window.addEventListener('load', function() {
+// window.addEventListener('load', function() {
  
-    setTimeout(function() {
-        window.location.href = 'https://sise.website/xW7WSwzk';
-    }, 30000);  
-});
+//     setTimeout(function() {
+//         window.location.href = 'https://sise.website/xW7WSwzk';
+//     }, 30000);  
+// });
 
