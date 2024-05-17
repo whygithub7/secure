@@ -1,6 +1,6 @@
 let marvel="marvel";
 
-console.log("alpha2");
+console.log("alpha3");
 
 
   function toggleList(listId, buttonId) {
